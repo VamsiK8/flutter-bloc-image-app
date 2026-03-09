@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359478841267",
+    "project_id": "flutter-bloc-app-46df4",
+    "storage_bucket": "flutter-bloc-app-46df4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359478841267:android:b574a25f1d30a8406405c6",
+        "android_client_info": {
+          "package_name": "com.example.image_bloc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa1cAUDyBsxZIjBMsleuLfXx49-V6nhlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
