@@ -53,10 +53,6 @@ This architecture improves:
 ```
 lib/
 
-core/
-   network/
-   error/
-
 features/
    products/
       data/
@@ -72,8 +68,9 @@ features/
          screens/
          widgets/
 
-firebase/
-   firebase_notification_service.dart
+core/
+   firebase/
+      firebase_notification_service.dart
 
 main.dart
 firebase_options.dart
